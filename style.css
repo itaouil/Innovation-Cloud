@@ -1,0 +1,91 @@
+/* Reset existing UA stylesheet */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Style Header */
+#hero-background {
+	width: 100vw;
+	height: 100vh;
+	background: url("https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg") no-repeat center;
+	background-size: cover;
+}
+
+.container {
+	max-width: 750px;
+	margin: 0 auto;
+	
+}
+
+#main {
+	text-align: center;
+	position: relative;
+	top: 170px;
+}
+
+#main h1 {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 120px;
+	text-transform: uppercase;
+	color: #fff;
+	line-height: 100px;
+}
+
+#main p {
+	margin-top: 80px;
+	margin-bottom: 50px;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight: bold;
+	letter-spacing: 0.5em;
+}
+
+#main a {
+	text-decoration: none;
+	color: #fff;
+	padding: 10px 50px;
+	background-color: #000;
+	font-family: sans-serif;
+	font-weight: thin;
+	transition: background-color .5s;
+}
+
+#main a:hover {
+	background-color: aquamarine;
+}
+
+#content {
+	background-color: #fff;
+	height: 250px;
+}
+
+#content-main img {
+	height: 196px;
+	width: 200px;
+	float: left;
+	margin-right: 40px;
+}
+
+#content-main h3 {
+	font-family: sans-serif;
+	font-weight: bold;
+	margin-top: 60px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	width: 
+}
+
+#content-main p{
+	margin-bottom: 20px;
+}
+
+#content-main{
+	clear: both;
+}
+
+
+
