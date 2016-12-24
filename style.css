@@ -87,5 +87,55 @@
 	clear: both;
 }
 
+/* Jumbotron */
+.jumbotron {
+	height: 600px;
+	background: url("https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/jumbotron_bg.jpg") no-repeat center;
+	background-size: cover;
+	text-align: right;
+}
+
+.jumbotron h3 {
+	color: #fff;
+	font-weight: bold;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+
+.jumbotron p {
+	color: #fff;
+	font-weight: thin;
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+
+.jumbotron a {
+	color: #fff;
+	font-family: monospace;
+	font-weight: thin;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 10px 40px;
+	background-color: #000;
+}
+
+.place {
+	position: relative;
+	top: 190px;
+	right: 100px;
+}
+
+/* Footer styling */
+footer {
+	height: 50px;
+	background-color: #000;
+}
+
+#here {
+	color: #fff;
+	text-align: center;
+	padding: 15px;
+}
+
 
 
