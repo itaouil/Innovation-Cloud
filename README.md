@@ -2,4 +2,4 @@
 HTML &amp; CSS learning process. The result:
 
 
-![alt text](https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/index.html)
+![alt text](https://github.com/itaouil95/Innovation-Cloud/blob/master/screencapture-s3-amazonaws-codecademy-content-projects-innovation-cloud-index-html-1482603889896.png)
